@@ -1,4 +1,4 @@
-# Source code for paper "Reinforcement Learning Enhances the Experts: Large Scale COVID-19 Vaccines Allocation with Multi-factor Contact Network"
+# Source code for paper "Reinforcement Learning Enhances the Experts: Large Scale COVID-19 Vaccines Allocation with Multi-factor Contact Network" (KDD'22)
 
 - These files are uploaded to Github and supplementary materials in the Microsoft CMT at the same time.
 - Due to file size limitations, the folder '/data' only serves as a PLACEHOLDER and the data needed to be downloaded and put into it follow the instruction below.
